@@ -2,4 +2,4 @@ local 새로운 실습 파일
 remote github의 새로운 수정사항 발생 
 local main브랜치로 변경
 local 머지 브랜치로 변경
-
+remote githun 머지 해보기 
